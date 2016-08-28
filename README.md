@@ -9,3 +9,8 @@
 * SQLite
   * Sqlite ships with OSX
   * verify with `sqlite3 -version`
+
+### Other resources consulted
+
+* [Using SQLite in R](https://www.r-bloggers.com/using-sqlite-in-r/)
+* [IO in R](http://www.statmethods.net/interface/io.html)

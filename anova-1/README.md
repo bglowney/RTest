@@ -1,6 +1,6 @@
 ### Anova Test
 
-* To run Anova sample from [this R tutorial](http://www.r-tutor.com/elementary-statistics/analysis-variance/factorial-design)
+To run Anova sample from [this R tutorial](http://www.r-tutor.com/elementary-statistics/analysis-variance/factorial-design). 
 After running the test you will have these files
   * anova-1/anova-1.in.R
   * anova-1/anova-1.csv
